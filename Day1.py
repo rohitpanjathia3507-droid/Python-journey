@@ -1,0 +1,11 @@
+# day1_bio.py
+name = input("Your name: ")
+age = input("Your age: ")
+father_name = input("Your father's name: ")
+mother_name = input("Your mother's name: ")
+your_hobby = input("Your hobby: ")
+print(f"My name: {name}")
+print(f"My age: {age}")
+print(f"My father's name: {father_name}")
+print(f"My mother's name: {mother_name}")
+print(f"My hobby: {your_hobby}")
